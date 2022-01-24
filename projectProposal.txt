@@ -1,0 +1,16 @@
+Group Members:
+-Katie Steinmeyer
+-Steven Angtuaco
+-Leanne Krivaa
+-Liran Goldstein
+
+Name of App: Color+
+
+Description: Our app will allow users to upload or take a photo and then provide them with a color palette based on the colors in the photo. The MVP will consist of the 
+ability to take a photo on the app or upload a photo from your phone's photos app and then will provide the 5 most common colors in the photo as the color scheme and will provide 
+the hex code values of those colors so that users can use them for design purposes. 
+This will help people to choose a desireable text color or sticker color when editing the photo. It will also help users design effective posters and signs when using photos
+that will have a cohesive and aesthetically pleasing appearance due our app's color scheme generating abilities. 
+Possible additional features for the future (in the semester after the MVP) include: adjusting the saturation of the color scheme, adjusting the brightness of the color scheme, 
+changing the number of colors a user wants (a range of 2-10 for example depending on how many they need), displaying the color code in rgb and hex for greater ease of 
+future use, possibly adding a second photo and creating a color scheme based on the values of both photos that will be pleasing. 
